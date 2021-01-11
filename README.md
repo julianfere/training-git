@@ -8,3 +8,6 @@ This file will include a list of students and teachers.
 - [Julian Pasquale](https://github.com/JulianPasquale)
 
 ## Students:
+
+- [Julian Feregotti](https://github.com/julianfere)
+
