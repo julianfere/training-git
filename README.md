@@ -9,5 +9,5 @@ This file will include a list of students and teachers.
 
 ## Students:
 
-- [Julian Feregotti](https://github.com/julianfere)
+- Julian Feregotti
 
